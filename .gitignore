@@ -1,1 +1,5 @@
 .out-of-code-insights/
+node_modules/
+.vitepress/*
+!.vitepress/theme
+!.vitepress/config.mts
